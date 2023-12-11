@@ -33,8 +33,8 @@
  <cloudHubDeployment>
  <uri>https://anypoint.mulesoft.com</uri>
  <muleVersion>4.4.0</muleVersion>
- <username>newenugushruthi</username>
- <password>Enugushruthi@124</password>
+ <username>enugushruthinewnew</username>
+ <password>Enugushruthi@1289</password>
  <applicationName>usejenkins</applicationName>
  <environment>Sandbox</environment>
  <workers>1</workers>
